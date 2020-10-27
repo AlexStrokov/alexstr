@@ -1,1 +1,3 @@
 gcloudacc.json
+terraform.tfstate
+.terraform
